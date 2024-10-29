@@ -132,7 +132,7 @@ export default function Coporation2() {
 												<div className="circle-1 position-relative z-0">
 													<div className="circle-2 position-absolute top-50 start-50 translate-middle z-1">
 														<div className="position-absolute top-50 start-50 translate-middle z-2">
-															<img className="w-100 h-100 rounded-circle" src="assets/imgs/coporation/avatar.png" alt="zelio" />
+															<img className="w-100 h-100 rounded-circle" src="/assets/imgs/swarna/file.jpg" alt="zelio" />
 															<svg className="text-primary-2 position-absolute bottom-0 end-0" xmlns="http://www.w3.org/2000/svg" width={9} height={9} viewBox="0 0 5 6" fill="none">
 																<circle cx="2.5" cy={3} r="2.5" fill="#A8FF53" />
 															</svg>
@@ -187,31 +187,31 @@ export default function Coporation2() {
 										<li className="position-relative z-1">
 											<div className="d-flex align-items-center gap-2">
 												<p className="text-300 text-nowrap">23 Oct:</p>
-												<span className="text-dark">Eshikhn-Web-Testing-Documentation-Excel</span>
+												<span className="text-white">Eshikhn-Web-Testing-Documentation-Excel</span>
 											</div>
 										</li>
 										<li className="position-relative z-1">
 											<div className="d-flex align-items-center gap-2">
 												<p className="text-300 text-nowrap">30 Sep:</p>
-												<span className="text-dark">DoDoBazar-Web-Testing-Documentation-Excel</span>
+												<span className="text-white">DoDoBazar-Web-Testing-Documentation-Excel</span>
 											</div>
 										</li>
 										<li className="position-relative z-1">
 											<div className="d-flex align-items-center gap-2">
 												<p className="text-300 text-nowrap">11 Jul:</p>
-												<span className="text-dark">HelloSuperStars-Web & Mobile-Testing-Documentation-Excel</span>
+												<span className="text-white">HelloSuperStars-Web & Mobile-Testing-Documentation-Excel</span>
 											</div>
 										</li>
 										<li className="position-relative z-1">
 											<div className="d-flex align-items-center gap-2">
 												<p className="text-300 text-nowrap">1 Jun:</p>
-												<span className="text-dark">OrchidArchitect-Web-Testing-Documentation-Excel</span>
+												<span className="text-white">OrchidArchitect-Web-Testing-Documentation-Excel</span>
 											</div>
 										</li>
 										<li className="position-relative z-1">
 											<div className="d-flex align-items-center gap-2">
 												<p className="text-300 text-nowrap">17 May:</p>
-												<span className="text-dark">Aabason-Web&Mobile-Testing-Documentation-Excel</span>
+												<span className="text-white">Aabason-Web&Mobile-Testing-Documentation-Excel</span>
 											</div>
 										</li>
 									</ul>

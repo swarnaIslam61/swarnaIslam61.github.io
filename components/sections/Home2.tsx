@@ -25,7 +25,7 @@ export default function Home2() {
 											&lt;span&gt;
 											<div className="text-dark">
 												<div className="typewriter">
-													<h1 style={{color:"white"}}
+													<h1 
 													className="fs-6 fw-medium">Hey, I’m Mansura Islam Swarna</h1>
 												</div>
 											</div>
@@ -39,7 +39,7 @@ export default function Home2() {
 											_
 											</span>
 										</h1>
-										<p className="mb-6 text-secondary-2">&lt;p&gt;<span style={{color:"white"}} className="text-dark">With expertise in manual and automated testing using tools like </span> <span className="text-secondary-2">JMeter</span>, <span className="text-secondary-2">Postman</span>, <span className="text-secondary-2">Selenium</span><span className="text-dark">... I ensure software quality and reliabilityas.  I deliver thorough testing solutions that guarantee robust, user-centered applications.</span>&lt;/p&gt;</p>
+										<p className="mb-6 text-secondary-2">&lt;p&gt;<span style={{color:"white"}} className="text-white">With expertise in manual and automated testing using tools like </span> <span className="text-secondary-2">JMeter</span>, <span className="text-secondary-2">Postman</span>, <span className="text-secondary-2">Selenium</span><span className="text-dark">... I ensure software quality and reliabilityas.  I deliver thorough testing solutions that guarantee robust, user-centered applications.</span>&lt;/p&gt;</p>
 										<div className="row">
 											<div className="col-7">
 												{/* Carausel Scroll */}
