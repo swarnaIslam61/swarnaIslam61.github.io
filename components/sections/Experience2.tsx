@@ -78,8 +78,8 @@ export default function Experience2() {
 										<h6 className="text-linear-4">Junior Software Quality Assurance Engineer</h6>
 										<ul className="mt-4">
 											<li className="text-dark mb-3"> <span style={{ color: "white" }}>Ensured the</span> <span className="text-secondary-2">quality and performance</span> <span style={{ color: "white" }}> of scalable web applications, enhancing the user experience for millions of users.</span> </li>
-											<li className="text-dark mb-3">Led testing and validation efforts to optimize application functionality and reliability.</li>
-											<li className="text-dark mb-3">Led testing and validation efforts to optimize application functionality and reliability.</li>
+											<li className="text-dark mb-3"> <span style={{ color: "white" }}>Led testing and validation efforts to optimize application functionality and reliability.</span></li>
+											<li className="text-dark mb-3"> <span style={{ color: "white" }}>Led testing and validation efforts to optimize application functionality and reliability.</span></li>
 										</ul>
 										<div className="d-flex flex-wrap align-items-center gap-3 mt-7">
 											<Link href="https://www.atlassian.com/agile" className="text-300 border border-1 px-3 py-1">Agile Methodology</Link>
