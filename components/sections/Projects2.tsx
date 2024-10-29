@@ -110,19 +110,19 @@ export default function Projects2() {
 																<li className="text-secondary-2 mb-3 border-bottom pb-3">Project Info</li>
 																<li className="text-dark mb-3 border-bottom pb-3">
 																	<div className="d-flex justify-content-between">
-																		<p className="text-dark mb-0 text-end">Client</p>
+																		<p className="text-white mb-0 text-end">Client</p>
 																		<p className="text-300 mb-0 text-end">Conceptual JSC</p>
 																	</div>
 																</li>
 																<li className="text-dark mb-3 border-bottom pb-3">
 																	<div className="d-flex justify-content-between">
-																		<p className="text-dark mb-0 text-end">Running</p>
+																		<p className="text-white mb-0 text-end">Running</p>
 																		<p className="text-300 mb-0 text-end">about 8 months</p>
 																	</div>
 																</li>
 																<li className="text-dark mb-3 border-bottom pb-3">
 																	<div className="d-flex justify-content-between">
-																		<p className="text-dark mb-0 text-end">Technologies</p>
+																		<p className="text-white mb-0 text-end">Technologies</p>
 																		<p className="text-300 mb-0 text-end">Web-Testing-Documentation-Excel</p>
 																	</div>
 																</li>
