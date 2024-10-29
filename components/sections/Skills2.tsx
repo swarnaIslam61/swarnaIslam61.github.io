@@ -11,7 +11,7 @@ export default function Skills2() {
 				<div className="container">
 					<div className="row">
 						<div className="text-center mb-7">
-							<h3 style={{color:"LightSeaGreen"}} className="ds-3 mt-3 mb-3 text-primary">My Skills</h3>
+							<h3 className="ds-3 mt-3 mb-3 text-primary">My Skills</h3>
 							<span className="fs-5 fw-medium text-200">
 							I excel at transforming complex issues into streamlined, effective 
 								<br className="d-md-block d-none" />
