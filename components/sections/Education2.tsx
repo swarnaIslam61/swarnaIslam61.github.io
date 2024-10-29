@@ -23,7 +23,7 @@ export default function Education2() {
 													<p className="text-300 text-nowrap fw-regular mb-0">2019-2023:</p>
 													<div>
 														<span className="text-primary-2">Ahsanullah University of Science and Technology</span>
-														<p className="text-dark">Bachelor’s Degree in Computer Science and Engineering</p>
+														<p className="text-white">Bachelor’s Degree in Computer Science and Engineering</p>
 													</div>
 												</div>
 											</li>
@@ -32,7 +32,7 @@ export default function Education2() {
 													<p className="text-300 text-nowrap fw-regular mb-0">2022-2023:</p>
 													<div>
 														<span className="text-primary-2">Bug Registance</span>
-														<p className="text-dark">Certification in Manual and Automation Testing</p>
+														<p className="text-white">Certification in Manual and Automation Testing</p>
 													</div>
 												</div>
 											</li>
@@ -41,7 +41,7 @@ export default function Education2() {
 													<p className="text-300 text-nowrap fw-regular mb-0">2016-2018:</p>
 													<div>
 														<span className="text-primary-2">Dhaka City College</span>
-														<p className="text-dark">Higher Secondary School Certificate(HSC)</p>
+														<p className="text-white">Higher Secondary School Certificate(HSC)</p>
 													</div>
 												</div>
 											</li>
@@ -50,7 +50,7 @@ export default function Education2() {
 													<p className="text-300 text-nowrap fw-regular mb-0">2014-2016:</p>
 													<div>
 														<span className="text-primary-2">Motijheel Model High School and College</span>
-														<p className="text-dark">Secondary School Certificate</p>
+														<p className="text-white">Secondary School Certificate</p>
 													</div>
 												</div>
 											</li>
@@ -76,7 +76,7 @@ export default function Education2() {
 												<p className="text-300 text-nowrap fw-regular mb-0">2021-2024:</p>
 												<div>
 													<span className="text-primary-2">IoT Attack Detection with Deep Learning</span>
-													<p className="text-dark">Developed a system to detect network attacks against IoT gateways using a deep learning approach.</p>
+													<p className="text-white">Developed a system to detect network attacks against IoT gateways using a deep learning approach.</p>
 												</div>
 											</div>
 										</li>
@@ -93,7 +93,7 @@ export default function Education2() {
 												<p className="text-300 text-nowrap fw-regular mb-0">2023-2023:</p>
 												<div>
 													<span className="text-primary-2">BENGALI  PARAPHRASE  RANKER</span>
-													<p className="text-dark">Automated disease classification in (Selected) agricultural crops using transfer learning.</p>
+													<p className="text-white">Automated disease classification in (Selected) agricultural crops using transfer learning.</p>
 												</div>
 											</div>
 										</li>
