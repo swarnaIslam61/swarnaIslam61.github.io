@@ -94,7 +94,7 @@ export default function Coporation2() {
 																</clipPath>
 															</defs>
 														</svg> */}
-														<img src="/assets/imgs/swarna/sdlc.jpg" alt="" width={116} height={50} />
+														<img src="/assets/imgs/swarna/sdlc1.jpg" alt="" width={116} height={50} />
 													</li>
 													<li className="carouselTicker__item">
 														{/* <svg xmlns="http://www.w3.org/2000/svg" width={116} height={18} viewBox="0 0 116 18" fill="none">
@@ -132,7 +132,7 @@ export default function Coporation2() {
 												<div className="circle-1 position-relative z-0">
 													<div className="circle-2 position-absolute top-50 start-50 translate-middle z-1">
 														<div className="position-absolute top-50 start-50 translate-middle z-2">
-															<img className="w-100 h-100 rounded-circle" src="/assets/imgs/swarna/file.jpg" alt="zelio" />
+															<img className="w-100 h-100 rounded-circle" src="/assets/imgs/swarna/sqaa.png" alt="zelio" />
 															<svg className="text-primary-2 position-absolute bottom-0 end-0" xmlns="http://www.w3.org/2000/svg" width={9} height={9} viewBox="0 0 5 6" fill="none">
 																<circle cx="2.5" cy={3} r="2.5" fill="#A8FF53" />
 															</svg>
