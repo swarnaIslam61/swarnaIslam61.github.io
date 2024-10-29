@@ -21,12 +21,12 @@ export default function Home2() {
 								</div>
 								<div className="col-lg-6 mx-lg-auto col-md-12">
 									<div className="p-lg-0 p-md-8 p-3">
-										<div className="text-secondary-2 d-flex align-items-center">
+										<div className="d-flex align-items-center" style={{ color: "white" }}>
 											&lt;span&gt;
-											<div className="text-dark">
+											<div>
 												<div className="typewriter">
-													<h1 
-													className="fs-6 fw-medium">Hey, I’m Mansura Islam Swarna</h1>
+													<h1
+														className="fs-6 fw-medium">Hey, I’m Mansura Islam Swarna</h1>
 												</div>
 											</div>
 											&lt;/span&gt;
@@ -35,11 +35,11 @@ export default function Home2() {
 											Software Quality Assurance Engineer <br />
 											<span className="text-linear-4">{'('}SQA{')'}</span>
 
-											<span className="flicker"> 
-											_
+											<span className="flicker">
+												_
 											</span>
 										</h1>
-										<p className="mb-6 text-secondary-2">&lt;p&gt;<span style={{color:"white"}} className="text-white">With expertise in manual and automated testing using tools like </span> <span className="text-secondary-2">JMeter</span>, <span className="text-secondary-2">Postman</span>, <span className="text-secondary-2">Selenium</span><span className="text-dark">... I ensure software quality and reliabilityas.  I deliver thorough testing solutions that guarantee robust, user-centered applications.</span>&lt;/p&gt;</p>
+										<p className="mb-6 text-secondary-2">&lt;p&gt;<span style={{ color: "white" }} className="text-white">With expertise in manual and automated testing using tools like </span> <span className="text-secondary-2">JMeter</span>, <span className="text-secondary-2">Postman</span>, <span className="text-secondary-2">Selenium</span><span style={{ color: "white" }} className="text-white">... I ensure software quality and reliabilityas.  I deliver thorough testing solutions that guarantee robust, user-centered applications.</span>&lt;/p&gt;</p>
 										<div className="row">
 											<div className="col-7">
 												{/* Carausel Scroll */}

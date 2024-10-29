@@ -76,7 +76,7 @@ export default function Experience2() {
 									</div>
 									<div className="col-lg-8 ps-lg-5 mt-5 mt-lg-0">
 										<h6 className="text-linear-4">Junior Software Quality Assurance Engineer</h6>
-										<ul className="mt-4" style={{ color: "white" }}> 
+										<ul className="mt-4" style={{ color: "white", listStyleType: "disc" }}> 
 											<li className="text-dark mb-3"> <span style={{ color: "white" }}>Ensured the</span> <span className="text-secondary-2">quality and performance</span> <span style={{ color: "white" }}> of scalable web applications, enhancing the user experience for millions of users.</span> </li>
 											<li className="text-dark mb-3"> <span style={{ color: "white" }}>Led testing and validation efforts to optimize application functionality and reliability.</span></li>
 											<li className="text-dark mb-3"> <span style={{ color: "white" }}>Led testing and validation efforts to optimize application functionality and reliability.</span></li>
