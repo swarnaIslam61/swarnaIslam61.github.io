@@ -53,7 +53,7 @@ export default function Coporation2() {
 															<path fillRule="evenodd" clipRule="evenodd" d="M70.6993 12.1537C70.6993 12.1537 70.7542 13.3424 69.6522 13.3424C69.6522 13.3424 68.4925 13.4046 68.4925 12.1834L68.4813 1.28809H64.3594V12.0968C64.3594 12.0968 63.9366 16.1876 69.7097 16.1876C69.7097 16.1876 74.7265 16.2472 74.7265 12.284V1.28878H70.6993V12.1537Z" fill="#607B96" />
 															<path fillRule="evenodd" clipRule="evenodd" d="M8.51902 7.94724C8.51902 7.94724 7.48907 7.30956 6.85066 7.06284C6.85066 7.06284 4.87739 6.14931 4.48648 5.71269C4.48648 5.71269 3.71711 4.98701 4.16769 4.14685C4.16769 4.14685 4.35544 3.59577 5.1678 3.59577C5.1678 3.59577 6.22688 3.65337 6.22688 4.52321V5.75037H10.0213L10.0134 3.94246C10.0134 3.94246 10.3038 0.982766 5.54555 0.853129C5.54555 0.853129 5.18697 0.829951 4.66115 0.856468C4.66115 0.856468 1.77889 1.01124 0.748227 2.59226C0.742932 2.6035 0.734396 2.61275 0.728469 2.62334C0.728469 2.62334 0.307645 3.07185 0.307645 4.63896V5.77082C0.307645 5.77082 0.264057 7.07673 0.932182 7.91818C0.932182 7.91818 1.30859 8.46921 2.23804 9.07847C2.23804 9.07847 4.12264 10.0939 5.25447 10.6747C5.25447 10.6747 6.39811 11.327 6.24743 12.3649C6.24743 12.3649 6.15409 13.4307 5.05138 13.387C5.05138 13.387 4.04262 13.3413 4.04262 12.2968V11.0697H0.000197613V12.8525C0.000197613 12.8525 -0.113021 16.26 5.08051 16.26C5.08051 16.26 10.0418 16.3611 10.2746 12.7625V11.3131C10.2746 11.3131 10.4486 9.10756 8.51902 7.94724Z" fill="#607B96" />
 														</svg> */}
-														<img src="/assets/imgs/swarna/clickup1.png" alt="" width={134} height={70} />
+														<img src="/assets/imgs/swarna/clickup1.png" alt="" width={140} height={70} />
 													</li>
 													<li className="carouselTicker__item">
 														{/* <svg xmlns="http://www.w3.org/2000/svg" width={113} height={27} viewBox="0 0 113 27" fill="none">
@@ -94,7 +94,7 @@ export default function Coporation2() {
 																</clipPath>
 															</defs>
 														</svg> */}
-														<img src="/assets/imgs/swarna/sdlc1.jpg" alt="" width={116} height={50} />
+														<img src="/assets/imgs/swarna/sdlc1.png" alt="" width={116} height={50} />
 													</li>
 													<li className="carouselTicker__item">
 														{/* <svg xmlns="http://www.w3.org/2000/svg" width={116} height={18} viewBox="0 0 116 18" fill="none">
@@ -132,7 +132,7 @@ export default function Coporation2() {
 												<div className="circle-1 position-relative z-0">
 													<div className="circle-2 position-absolute top-50 start-50 translate-middle z-1">
 														<div className="position-absolute top-50 start-50 translate-middle z-2">
-															<img className="w-100 h-100 rounded-circle" src="/assets/imgs/swarna/sqaa.png" alt="zelio" />
+															<img className="w-100 h-100 rounded-circle" src="/assets/imgs/swarna/file (1).png" alt="zelio" />
 															<svg className="text-primary-2 position-absolute bottom-0 end-0" xmlns="http://www.w3.org/2000/svg" width={9} height={9} viewBox="0 0 5 6" fill="none">
 																<circle cx="2.5" cy={3} r="2.5" fill="#A8FF53" />
 															</svg>
