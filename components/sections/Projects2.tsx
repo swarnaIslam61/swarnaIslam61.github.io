@@ -54,7 +54,9 @@ export default function Projects2() {
 																Dodobazar <br />
 																online shopping platform
 															</h4>
-															<p style={{ color: "white" }}> Led testing and validation efforts to optimize application functionality and reliability.</p>
+															<p style={{ color: "white" }}>
+																Led testing and validation efforts to optimize application functionality and reliability.
+															</p>
 															<ul className="mt-4 list-unstyled">
 																<li className="text-secondary-2 mb-3 border-bottom pb-3">Project Info</li>
 																<li className="text-dark mb-3 border-bottom pb-3">
