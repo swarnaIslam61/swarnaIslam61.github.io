@@ -1919,7 +1919,7 @@ textarea {
 }
 
 .text-white {
-  color: var(--tc-neutral-1000) !important;
+  color: white !important;
 }
 
 .text-white-keep {
@@ -14323,11 +14323,6 @@ strong {
 }
 /*# sourceMappingURL=main.css.map */
 
-
-
-
-
-
 .swarnafont {
   font-size: 14px; /* Default for extra-small screens (mobiles) */
 }
@@ -14366,3 +14361,10 @@ strong {
     font-size: 24px;
   }
 }
+
+
+
+
+
+
+
