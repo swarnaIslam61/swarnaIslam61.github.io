@@ -13,7 +13,7 @@ export default function MobileMenu({ isMobileMenu, handleMobileMenu }: any) {
 							<img src="/assets/imgs/footer-1/logo.svg" alt="infinia" />
 							<span className="fs-4 ms-2 text-dark">swarna.website</span>
 						</Link>
-						<div className={`burger-icon burger-icon-white border rounded-3 ${isMobileMenu ? 'burger-close' : ''}`} onClick={handleMobileMenu}>
+						<div className={`mr-8 burger-icon burger-icon-white border rounded-3 ${isMobileMenu ? 'burger-close' : ''}`} onClick={handleMobileMenu}>
 							<span className="burger-icon-top" />
 							<span className="burger-icon-mid" />
 							<span className="burger-icon-bottom" />
