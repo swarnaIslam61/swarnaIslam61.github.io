@@ -14322,3 +14322,47 @@ strong {
   background-color: var(--tc-neutral-200) !important;
 }
 /*# sourceMappingURL=main.css.map */
+
+
+
+
+
+
+.swarnafont {
+  font-size: 14px; /* Default for extra-small screens (mobiles) */
+}
+
+/* Small screens (smaller tablets, landscape phones) */
+@media (min-width: 576px) {
+  .swarnafont {
+    font-size: 16px;
+  }
+}
+
+/* Medium screens (tablets) */
+@media (min-width: 768px) {
+  .swarnafont {
+    font-size: 18px;
+  }
+}
+
+/* Large screens (desktops) */
+@media (min-width: 992px) {
+  .swarnafont {
+    font-size: 20px;
+  }
+}
+
+/* Extra-large screens (large desktops) */
+@media (min-width: 1200px) {
+  .swarnafont {
+    font-size: 22px;
+  }
+}
+
+/* Extra-extra-large screens (very large desktops) */
+@media (min-width: 1400px) {
+  .swarnafont {
+    font-size: 24px;
+  }
+}
