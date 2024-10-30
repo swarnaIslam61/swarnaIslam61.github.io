@@ -18,7 +18,7 @@ export default function Service2() {
 										<span className="text-linear-4 d-flex align-items-center"> Cooperation </span>
 									</div>
 									<h3>
-									Crafting tailored testing  
+									Crafting tailored testing   
 										<span className="text-300">
 										       solutions<br />
 											   to meet your unique quality assurance needs
