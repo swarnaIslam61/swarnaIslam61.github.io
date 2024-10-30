@@ -26,7 +26,7 @@ export default function Home2() {
 											<div className="text-dark">
 												<div className="typewriter">
 													<h1 
-													className="swarnafont fw-medium" style={{ color: "white" }}>Hey, I’m Mansura Islam Swarna</h1>
+													className="fs-6 fw-medium" style={{ color: "white" }}>Hey, I’m Mansura Islam Swarna</h1>
 												</div>
 											</div>
 											&lt;/span&gt;
