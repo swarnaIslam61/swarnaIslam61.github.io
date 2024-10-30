@@ -34,7 +34,12 @@ export default function MobileMenu({ isMobileMenu, handleMobileMenu }: any) {
 											<Link className="nav-link" href="/#services">Searvices</Link>
 										</li>
 										<li className="nav-item">
-											<Link className="nav-link" href="/#portfolio">Portfolio</Link>
+											<Link className="nav-link" href="/#portfolio" onClick={() => {
+												const menu = document.querySelector(".navbar-collapse");
+												if (menu) {
+													menu.classList.remove("show");
+												}
+											}}>Portfolio</Link>
 										</li>
 										<li className="nav-item">
 											<Link className="nav-link" href="/skills">Skills</Link>
