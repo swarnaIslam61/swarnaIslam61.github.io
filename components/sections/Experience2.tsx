@@ -31,8 +31,8 @@ export default function Experience2() {
 											<Link href="https://www.eshikhon.site/login" className="technology border border-1 rounded-3 p-3">
 												<div className="d-flex align-items-center gap-2">
 													<img src="assets/GoogleExp/Eshikh.png" alt="zelio"
-													style={{ width: '50px', height: '50px' }}
-													 />
+														style={{ width: '50px', height: '50px' }}
+													/>
 													<div className="d-flex flex-column ms-2">
 														<h5 className="mb-1">eShikhon.com</h5>
 														<span className="text-300">2024 - Present</span>
@@ -42,8 +42,8 @@ export default function Experience2() {
 											<Link href="https://aabason.com/" className="technology border border-1 rounded-3 p-3">
 												<div className="d-flex align-items-center gap-2">
 													<img src="assets/GoogleExp/aabason.png" alt="zelio"
-													style={{ width: '50px', height: '50px' }}
-													 />
+														style={{ width: '50px', height: '50px' }}
+													/>
 													<div className="d-flex flex-column ms-2">
 														<h5 className="mb-1">Aabason</h5>
 														<span className="text-300">2023 - 2024</span>
@@ -53,8 +53,8 @@ export default function Experience2() {
 											<Link href="https://www.mges.global/" className="technology border border-1 rounded-3 p-3">
 												<div className="d-flex align-items-center gap-2">
 													<img src="assets/GoogleExp/MGES.png" alt="zelio"
-													style={{ width: '50px', height: '50px' }}
-													 />
+														style={{ width: '50px', height: '50px' }}
+													/>
 													<div className="d-flex flex-column ms-2">
 														<h5 className="mb-1">MGES</h5>
 														<span className="text-300">2023 - 2024</span>
@@ -63,8 +63,8 @@ export default function Experience2() {
 											</Link>
 											<Link href="https://hellosuperstars.com/" className="technology border border-1 rounded-3 p-3">
 												<div className="d-flex align-items-center gap-2">
-													<img src="assets/GoogleExp/Hellosuper.jpg" alt="zelio" 
-													style={{ width: '50px', height: '50px' }}
+													<img src="assets/GoogleExp/Hellosuper.jpg" alt="zelio"
+														style={{ width: '50px', height: '50px' }}
 													/>
 													<div className="d-flex flex-column ms-2">
 														<h5 className="mb-1">HelloSuperStars</h5>
@@ -76,10 +76,16 @@ export default function Experience2() {
 									</div>
 									<div className="col-lg-8 ps-lg-5 mt-5 mt-lg-0">
 										<h6 className="text-linear-4">Junior Software Quality Assurance Engineer</h6>
-										<ul className="mt-4" style={{ color: "white", listStyleType: "disc" }}> 
-											<li className="text-dark mb-3"> <span style={{ color: "white" }}>Ensured the</span> <span className="text-secondary-2">quality and performance</span> <span style={{ color: "white" }}> of scalable web applications, enhancing the user experience for millions of users.</span> </li>
-											<li className="text-dark mb-3"> <span style={{ color: "white" }}>Led testing and validation efforts to optimize application functionality and reliability.</span></li>
-											<li className="text-dark mb-3"> <span style={{ color: "white" }}>Led testing and validation efforts to optimize application functionality and reliability.</span></li>
+										<ul className="mt-4">
+											<li className="text-dark mb-3" style={{ color: "white", listStyleType: "disc", listStylePosition: "inside" }}>
+												<span>Ensured the</span> <span className="text-secondary-2">quality and performance</span> <span>of scalable web applications, enhancing the user experience for millions of users.</span>
+											</li>
+											<li className="text-dark mb-3" style={{ color: "white", listStyleType: "disc", listStylePosition: "inside" }}>
+												<span>Led testing and validation efforts to optimize application functionality and reliability.</span>
+											</li>
+											<li className="text-dark mb-3" style={{ color: "white", listStyleType: "disc", listStylePosition: "inside" }}>
+												<span>Led testing and validation efforts to optimize application functionality and reliability.</span>
+											</li>
 										</ul>
 										<div className="d-flex flex-wrap align-items-center gap-3 mt-7">
 											<Link href="https://www.atlassian.com/agile" className="text-300 border border-1 px-3 py-1">Agile Methodology</Link>
