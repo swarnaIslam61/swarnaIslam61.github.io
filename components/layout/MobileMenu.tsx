@@ -23,7 +23,7 @@ export default function MobileMenu({ isMobileMenu, handleMobileMenu }: any) {
 						<PerfectScrollbar className="perfect-scroll">
 							<div className="mobile-menu-wrap mobile-header-border">
 								<nav>
-									<ul className="mobile-menu font-heading ps-0">
+									<ul onClick={handleMobileMenu} className="mobile-menu font-heading ps-0">
 										<li className="nav-item">
 											<Link className="nav-link" href="/#">Home</Link>
 										</li>
@@ -34,15 +34,10 @@ export default function MobileMenu({ isMobileMenu, handleMobileMenu }: any) {
 											<Link className="nav-link" href="/#services">Searvices</Link>
 										</li>
 										<li className="nav-item">
-											<Link className="nav-link" href="/#portfolio" onClick={() => {
-												const menu = document.querySelector(".navbar-collapse");
-												if (menu) {
-													menu.classList.remove("show");
-												}
-											}}>Portfolio</Link>
+											<Link className="nav-link" href="/#portfolio" >Portfolio</Link>
 										</li>
 										<li className="nav-item">
-											<Link className="nav-link" href="/skills">Skills</Link>
+											<Link className="nav-link" href="/#skills">Skills</Link>
 										</li>
 										<li className="nav-item">
 											<Link className="nav-link" href="/#contact">Contact</Link>
